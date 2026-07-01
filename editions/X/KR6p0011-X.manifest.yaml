@@ -1,0 +1,428 @@
+canonical_identifier: bkk:krp/KR6p0011/X/v1
+canonical_location: https://kanripo.org/bkk/KR6p0011/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀無量壽佛經圖頌
+  identifiers:
+    krp: KR6p0011
+    cbeta: X22n0412
+    cbeta_old_id: X22n0412
+    authorityid: CA0001221
+    json_key: X0412
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X22/X22n0412.xml
+    old_id: X22n0412
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6p0011_000-X.yaml, hash: 'sha256:8ca9a6ca1323ab32fb250b2230fc7251732451317fd9c8740463ce816eb75a0e'}
+  - {seq: 1, filename: KR6p0011_001-X.yaml, hash: 'sha256:de3942a985506ceb94fef0ca3477b380ffdbf03ff3b04d1e936d2ec2a8405ed7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6p0011_000-X.markers.yaml, hash: 'sha256:7807658b880b0f32564c62fdeba6913e01b265e7e7d55fcd5b38df1ee6110d65'}
+  - {seq: 1, role: markers, filename: assets/KR6p0011_001-X.markers.yaml, hash: 'sha256:7a402c3fe42a4d55879e6114651fdf5dc443adfca280795377c687c903d2178f'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6p0011_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 412-A 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0011_X_000-mulu-2
+    span:
+    - front
+    - 283
+    - 283
+  label: No. 412-B 敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6p0011_X_000-mulu-3
+    span:
+    - front
+    - 881
+    - 881
+  label: 觀無量壽佛經圖頌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 5127
+  label: 佛說觀無量壽佛經附圖頌
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-1
+    span:
+    - body
+    - 38
+    - 38
+  label: 靈山嘉會
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-2
+    span:
+    - body
+    - 109
+    - 109
+  label: 闍王幽父
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-3
+    span:
+    - body
+    - 363
+    - 363
+  label: 夫人密往
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-4
+    span:
+    - body
+    - 431
+    - 431
+  label: 加惡弑母
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-5
+    span:
+    - body
+    - 508
+    - 508
+  label: 緣起弑逆韋提哀請
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-6
+    span:
+    - body
+    - 638
+    - 638
+  label: 落曰懸鼓
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-7
+    span:
+    - body
+    - 707
+    - 707
+  label: 大水結冰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-8
+    span:
+    - body
+    - 886
+    - 886
+  label: 琉璃寶地
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-9
+    span:
+    - body
+    - 959
+    - 959
+  label: 七重行樹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-10
+    span:
+    - body
+    - 1267
+    - 1267
+  label: 八功德水
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-11
+    span:
+    - body
+    - 1378
+    - 1378
+  label: 總觀依報
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-12
+    span:
+    - body
+    - 1447
+    - 1447
+  label: 佛住空中
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-13
+    span:
+    - body
+    - 1517
+    - 1517
+  label: 蓮華寶座　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-14
+    span:
+    - body
+    - 1751
+    - 1751
+  label: 次當想佛
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-15
+    span:
+    - body
+    - 1821
+    - 1821
+  label: 先作像觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-16
+    span:
+    - body
+    - 2020
+    - 2020
+  label: 佛真法身　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-17
+    span:
+    - body
+    - 2421
+    - 2421
+  label: 觀音法身　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-18
+    span:
+    - body
+    - 2587
+    - 2587
+  label: 勢至法身　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-19
+    span:
+    - body
+    - 2718
+    - 2718
+  label: 普觀當生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-20
+    span:
+    - body
+    - 2788
+    - 2788
+  label: 雜觀三聖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-21
+    span:
+    - body
+    - 2887
+    - 2887
+  label: 九品總圖
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-22
+    span:
+    - body
+    - 2947
+    - 2947
+  label: 上品上生　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-23
+    span:
+    - body
+    - 3078
+    - 3078
+  label: 上品中生　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-24
+    span:
+    - body
+    - 3207
+    - 3207
+  label: 上品下生　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-25
+    span:
+    - body
+    - 3337
+    - 3337
+  label: 中品上生　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-26
+    span:
+    - body
+    - 3577
+    - 3577
+  label: 中品中生　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-27
+    span:
+    - body
+    - 3722
+    - 3722
+  label: 中品下生　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-28
+    span:
+    - body
+    - 3852
+    - 3852
+  label: 下品上生　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-29
+    span:
+    - body
+    - 3982
+    - 3982
+  label: 下品中生　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-30
+    span:
+    - body
+    - 4110
+    - 4110
+  label: 下品下生　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-31
+    span:
+    - body
+    - 4237
+    - 4237
+  label: 夫人悟道
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-32
+    span:
+    - body
+    - 4307
+    - 4307
+  label: 侍女發心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-33
+    span:
+    - body
+    - 4728
+    - 4728
+  label: 王宮流通　頌二
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-34
+    span:
+    - body
+    - 4881
+    - 4881
+  label: 足步虗還
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-35
+    span:
+    - body
+    - 4950
+    - 4950
+  label: 崛山流通
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6p0011_X_001-mulu-36
+    span:
+    - body
+    - 5010
+    - 5010
+  label: 繪圖攝頌二
+  type: mulu
+  level: 1
+hash: sha256:6e8e2a7a0f6bc22a1bd151f5b55c6261ccfea23a6218c40be8334028369388c8
