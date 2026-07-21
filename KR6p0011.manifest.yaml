@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6p0011_000.yaml, hash: 'sha256:49dbe2e70fbaf9241ba90cf9b52ac4abe004fb6177c1c48d20582286578de9a9'}
+  - {seq: 0, filename: KR6p0011_000.yaml, hash: 'sha256:fa2532ab1bac1b08ac534a3db088fc0a520ff74031c5cb0732ac699c87a27ee5'}
   - {seq: 1, filename: KR6p0011_001.yaml, hash: 'sha256:598cf949945b39d30ff68f1d29e0e3494c9a473bfbe722d37d438a5e99ae67f8'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6p0011_000.markers.yaml, hash: 'sha256:89c02a09a572b1ad02ef92b8f0593fdf89d0a83d2ca0aba417a097160bd13968'}
+  - {seq: 0, role: markers, filename: assets/KR6p0011_000.markers.yaml, hash: 'sha256:58968a36683784741541d265fb1419e998fb6beff8d585f503593c0a2825b2c1'}
   - {seq: 1, role: markers, filename: assets/KR6p0011_001.markers.yaml, hash: 'sha256:79282e22e30e121a7beacc8e575f84449d77db7aad8bfafc79a8d2a755ad22cd'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6p0011_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 412-A 序
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0011_X_000-mulu-2
     span:
-    - front
+    - body
     - 283
     - 283
   label: No. 412-B 敘
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6p0011_X_000-mulu-3
     span:
-    - front
+    - body
     - 881
     - 881
   label: 觀無量壽佛經圖頌
@@ -427,7 +427,7 @@ table_of_contents:
   label: 繪圖攝頌二
   type: mulu
   level: 1
-hash: sha256:8cf0b16e9f472b4f63b95af4035e1f73ce80e3a04314fb8738d44b78e7cfe100
+hash: sha256:7ea14c186bf5af8d38c8d01cbc2e10cedaef4d138806a85371fb96861f5924f1
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
